@@ -1,5 +1,3 @@
-Here’s the **complete and cleaned-up `README.md` content** for your Shopping Cart Application. You can copy and paste this directly into your project:
-
 # 🛒 Shopping Cart Application
 
 ## 📚 Table of Contents
